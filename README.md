@@ -7,4 +7,4 @@ Simple Hangman game built with React and TypeScript!
 To run locally in you system:
 
 - Clone the repository
-- In the clonned directory, simple run "npm run local" in the terminal
+- In the cloned directory, simple run "npm run local" in the terminal
